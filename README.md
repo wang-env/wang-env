@@ -5,11 +5,11 @@
 ## Languages and Tools
 
 <img align="left" alt="Vscode" width="30px" style="padding-right:10px; padding-left:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg">
-<img align="left" alt="C++" width="30px" style="padding-right:10px; padding-left:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg">
+<img align="left" alt="C++" width="31px" style="padding-right:10px; padding-left:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg">
 <img align="left" alt="Angular" width="30px" style="padding-right:10px; padding-left:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-plain.svg">
 <img align="left" alt="HTML5" width="30px" style="padding-right:10px; padding-left:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"">
 <img align="left" alt="CSS3" width="30px" style="padding-right:10px; padding-left:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
-<img align="left" alt="Bootstrap" width="30px" style="padding-right:10px; padding-left:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg">
+<img align="left" alt="Bootstrap" width="31px" style="padding-right:10px; padding-left:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg">
 <img align="left" alt="React" width="30px" style="padding-right:10px; padding-left:10px;" src="https://img.icons8.com/?size=100&id=047WZAFDnkVp&format=png&color=FFFFFF">
 <img align="left" alt="ReactBootstrap" width="30px" style="padding-right:10px; padding-left:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactbootstrap/reactbootstrap-original.svg">
 <img align="left" alt="Cursor" width="30px" style="padding-right:10px; padding-left:10px;" src="https://img.icons8.com/?size=100&id=WSo7jgx1Cz2d&format=png&color=FFFFFF">
