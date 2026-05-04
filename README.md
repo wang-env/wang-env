@@ -1,5 +1,7 @@
 # wangenv
 
+Hi, I am a software engineer with a holistic approach to creating technical solutions and interactive systems. My professional practice is grounded in applying sound programming principles to solve complex problems using a variety of languages and platforms.
+
 ---
 
 ## Languages and Tools
